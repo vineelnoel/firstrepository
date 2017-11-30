@@ -1,2 +1,2 @@
-#First Git Repository
+#FirstGitRepository
 Here goes nothing
